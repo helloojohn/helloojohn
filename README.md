@@ -34,9 +34,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloojohn&show_icons=true&theme=dark&layout=compact)](https://github.com/helloojohn/github-readme-stats)
-
-<hr />
-
-
-
-
