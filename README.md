@@ -1,6 +1,6 @@
 ## Hi there, I'm John! 👋
 
-#### I'm a Brother, Son, Developer, and Friend!
+#### I'm a Brother, Son, friend and I love building cool stuff!
 
 - 🔭 I'm currently a student at ALX-Holberton School
 - 👯 I’m looking to expand my skills and learn new technologies and also collaborate with other developers
@@ -33,11 +33,6 @@
 
 <hr />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=helloojohn&show_icons=true&theme=dark&repo=github-readme-stats)](https://github.com/helloojohn/github-readme-stats)
-
-</details>
 
 
