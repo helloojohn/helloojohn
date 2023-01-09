@@ -27,7 +27,6 @@
 ### Statistics:
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloojohn&show_icons=true&theme=dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=helloojohn&show_icons=true&theme=dark&repo=github-readme-stats)](https://github.com/helloojohn/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloojohn&show_icons=true&theme=dark&layout=compact)](https://github.com/helloojohn/github-readme-stats)
 
@@ -39,7 +38,5 @@
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=helloojohn&show_icons=true&theme=dark&repo=github-readme-stats)](https://github.com/helloojohn/github-readme-stats)
 
 </details>
----
-[![](https://visitcount.itsvg.in/api?id=helloojohn &icon=0&color=0)](https://visitcount.itsvg.in)
 
 
