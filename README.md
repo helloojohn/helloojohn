@@ -1,6 +1,8 @@
 ## Hi there, I'm John! 👋
 
-#### I'm a Brother, Son, friend and I love building cool stuff!
+<hr />
+
+#### I'm a brother, son, friend and I love building cool stuff!
 
 - 🔭 I'm currently a student at ALX-Holberton School
 - 👯 I’m looking to expand my skills and learn new technologies and also collaborate with other developers
