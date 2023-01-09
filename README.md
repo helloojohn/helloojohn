@@ -2,9 +2,11 @@
 
 <hr />
 
-#### I'm a brother, son, friend and I love building cool stuff!
+### I'm a brother, son, friend and I love building cool stuff!
 
-- 🔭 I'm currently a student at ALX-Holberton School
+<hr />
+
+- 🔭 I'm currently a software engineering student at ALX-Holberton School
 - 👯 I’m looking to expand my skills and learn new technologies and also collaborate with other developers
 - 🥅 2023 Goals: Become a competent developer and contribute to Open Source projects
 - ⚡ Fun fact: I love playing Football and Table tennis
