@@ -6,9 +6,9 @@
 
 <hr />
 
-- 🔭 I'm currently a doing some learning at ALX-Holberton School and Genesys Learnable
+- 🔭 I'm currently for a place where I can contribute my skillset
 - 👯 I’m looking to expand my skills and learn new technologies and also collaborate with other developers
-- 🥅 2023 Goals: Become a competent developer and contribute to Open Source projects
+- 🥅 2024 Goals: Become a competent developer and contribute to Open Source projects
 - ⚡ Fun fact: I love playing Football and Table tennis
 - 💬 Feel free to ask me about anything [here](https://github.com/helloojohn/helloojohn/issues)
 
